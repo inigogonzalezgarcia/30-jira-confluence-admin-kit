@@ -1,0 +1,63 @@
+Key,Name,Project type,Lead,Last issue update,Issues,Permission scheme,Workflow scheme,Browse anyone,Archived,Category
+FLEET,Fleet,software,lucia.romero@fabrikam.com,2026-09-28,2438,Engineering Permissions,Engineering Workflow,No,No,Engineering
+FW,FW,software,kasia.torres@fabrikam.com,2026-09-14,1632,Default Permission Scheme,Engineering Workflow,No,No,Engineering
+NAV,NAV,software,sofia.diaz@fabrikam.com,2026-09-15,1624,Engineering Permissions,Engineering Workflow,No,No,Engineering
+MOB,MOB,software,anna.muller@fabrikam.com,2026-10-14,740,Default Permission Scheme,Engineering Workflow,No,No,Engineering
+DATA,Data,software,tomasz.lopez4@fabrikam.com,2026-09-17,3122,Engineering Permissions,Engineering Workflow,No,No,Engineering
+WEB,WEB,software,noah.lopez@fabrikam.com,2026-09-30,7648,Default Permission Scheme,Engineering Workflow,No,No,Engineering
+INT,INT,software,lena.torres@fabrikam.com,2026-09-30,824,Default Permission Scheme,Engineering Workflow,No,No,Engineering
+SIM,SIM,software,lena.romero@fabrikam.com,2026-10-01,192,Engineering Permissions,Engineering Workflow,No,No,Engineering
+QA,QA,software,ivan.kowalski@fabrikam.com,2026-10-10,3163,Engineering Permissions,Engineering Workflow,No,No,Engineering
+OPS,OPS,software,jonas.wojcik@fabrikam.com,2026-10-21,4190,Default Permission Scheme,Engineering Workflow,No,No,Engineering
+VIS,VIS,software,laura.navarro@fabrikam.com,2026-10-04,5106,Engineering Permissions,Engineering Workflow,No,No,Engineering
+LSC,LSC,software,ola.perez4@fabrikam.com,2024-08-30,1844,Engineering Permissions,Engineering Workflow,No,No,Engineering
+SD,SD,service_desk,kasia.schmidt@fabrikam.com,2026-09-24,555,Service Desk Permissions,Service Desk Workflow,No,No,Service
+ITSD,Itsd,service_desk,emma.kowalski@fabrikam.com,2026-10-23,8430,Service Desk Permissions,Service Desk Workflow,No,No,Service
+HR,HR,business,mia.martin2@fabrikam.com,2026-10-16,3964,Engineering Permissions,Business Workflow,No,No,Business
+FIN,FIN,business,hugo.martin@fabrikam.com,2026-09-23,2725,Engineering Permissions,Business Workflow,No,No,Business
+LEGAL,Legal,business,lucia.muller@fabrikam.com,2026-10-04,4322,Default Permission Scheme,Business Workflow,No,No,Business
+MKT,MKT,business,irene.santos7@fabrikam.com,2026-10-02,186,Engineering Permissions,Business Workflow,No,No,Business
+SALES,Sales,business,piotr.navarro9@fabrikam.com,2026-09-22,6448,Default Permission Scheme,Business Workflow,No,No,Business
+QMS,QMS,software,kasia.santos@fabrikam.com,2026-09-20,3361,Engineering Permissions,QMS Workflow,No,No,Engineering
+RMA,RMA,service_desk,lucia.schmidt@fabrikam.com,2026-10-17,3599,Service Desk Permissions,Service Desk Workflow,No,No,Service
+SUP,SUP,service_desk,marco.weber@fabrikam.com,2026-10-03,1751,Service Desk Permissions,Service Desk Workflow,No,No,Service
+PROC,Proc,business,javier.nowak@fabrikam.com,2026-09-15,4166,Default Permission Scheme,Business Workflow,No,No,Business
+FAC,FAC,service_desk,nuria.torres@fabrikam.com,2026-09-26,4185,Service Desk Permissions,Service Desk Workflow,No,No,Service
+SEC,SEC,software,marta.silva3@fabrikam.com,2026-10-22,2055,SEC Permissions,Engineering Workflow,No,No,Engineering
+ARCH,Arch,software,sara.sanchez@fabrikam.com,2025-10-18,5837,Default Permission Scheme,Engineering Workflow,No,No,Engineering
+BI,BI,software,luis.nowak@fabrikam.com,2026-09-14,6844,BI Permissions,Engineering Workflow,No,No,Engineering
+ML,ML,software,diego.ferrari2@fabrikam.com,2026-10-21,1328,ML Permissions,ML Workflow,No,No,Engineering
+HW,HW,software,elena.ferrari@fabrikam.com,2026-10-20,6811,HW Permissions,Engineering Workflow,No,No,Engineering
+PCB,PCB,software,ana.garcia@fabrikam.com,2026-09-20,8553,Default Permission Scheme,Engineering Workflow,No,No,Engineering
+MECH,Mech,software,clara.moreno3@fabrikam.com,2026-09-21,1034,Default Permission Scheme,MECH Workflow,No,No,Engineering
+PKG,PKG,software,ex.manager@fabrikam.com,2026-09-17,941,Default Permission Scheme,Engineering Workflow,No,No,Engineering
+DOCS,Docs,software,tomas.navarro4@fabrikam.com,2026-09-23,5259,Default Permission Scheme,Engineering Workflow,No,No,Engineering
+REL,REL,software,oscar.diaz@fabrikam.com,2026-09-30,561,Engineering Permissions,Engineering Workflow,No,No,Engineering
+PERF,Perf,software,luis.rossi@fabrikam.com,2026-09-25,1001,Engineering Permissions,PERF Workflow,No,No,Engineering
+ACC,ACC,software,piotr.diaz4@fabrikam.com,2026-10-04,1399,Default Permission Scheme,Engineering Workflow,No,No,Engineering
+CERT,Cert,software,anna.fischer@fabrikam.com,2025-10-03,2565,Engineering Permissions,Engineering Workflow,No,No,Engineering
+TRAIN,Train,business,javier.ruiz@fabrikam.com,2026-10-04,2454,Engineering Permissions,Business Workflow,No,No,Business
+ONB,ONB,business,oscar.muller6@fabrikam.com,2026-09-14,5194,Default Permission Scheme,Business Workflow,No,No,Business
+EVT,EVT,business,ana.fischer@fabrikam.com,2026-10-05,2272,Engineering Permissions,Business Workflow,No,No,Business
+PART,Part,software,diego.nowak6@fabrikam.com,2026-09-15,6783,Engineering Permissions,Engineering Workflow,No,No,Engineering
+LOG,LOG,software,raul.ruiz4@fabrikam.com,2026-10-10,6101,Default Permission Scheme,Engineering Workflow,No,No,Engineering
+WMS,WMS,software,kasia.rossi6@fabrikam.com,2026-09-17,2763,Default Permission Scheme,Engineering Workflow,No,No,Engineering
+ERP,ERP,software,mario.navarro@fabrikam.com,2026-09-22,7720,Engineering Permissions,Engineering Workflow,No,No,Engineering
+CRM,CRM,software,julia.schmidt8@fabrikam.com,2026-10-01,7550,Engineering Permissions,Engineering Workflow,No,No,Engineering
+PORTAL,Portal,software,ola.romero@fabrikam.com,2026-10-19,2643,Engineering Permissions,Engineering Workflow,No,No,Engineering
+API,API,software,piotr.romero9@fabrikam.com,2026-09-23,5887,Default Permission Scheme,Engineering Workflow,No,No,Engineering
+SDK,SDK,software,felix.ruiz2@fabrikam.com,2026-09-19,8144,Default Permission Scheme,Engineering Workflow,No,No,Engineering
+TOOLS,Tools,software,,2026-09-30,2735,Engineering Permissions,Engineering Workflow,No,No,Engineering
+INFRA,Infra,software,mia.romero@fabrikam.com,2026-09-27,1189,Default Permission Scheme,Engineering Workflow,No,No,Engineering
+NET,NET,software,ivan.bianchi@fabrikam.com,2026-10-06,7514,Default Permission Scheme,Engineering Workflow,No,No,Engineering
+DB,DB,software,sofia.perez3@fabrikam.com,2026-09-18,2299,Engineering Permissions,Engineering Workflow,No,No,Engineering
+OBS,OBS,software,jonas.wojcik@fabrikam.com,2026-09-28,7686,Engineering Permissions,Engineering Workflow,No,No,Engineering
+DEMO,Demo,software,giulia.moreno@fabrikam.com,2026-10-01,1098,DEMO Permissions,Engineering Workflow,Yes,No,Engineering
+PUBDOCS,Pubdocs,software,javier.costa@fabrikam.com,2026-09-21,1213,Default Permission Scheme,Engineering Workflow,Yes,No,Engineering
+HACK,Hack,software,marta.silva3@fabrikam.com,2025-07-27,9,Default Permission Scheme,Engineering Workflow,No,No,Engineering
+OLD1,Old1,software,irene.silva@fabrikam.com,2024-07-02,5382,Default Permission Scheme,Engineering Workflow,No,No,Engineering
+OLD2,Old2,software,elena.nowak@fabrikam.com,2024-09-17,6319,Engineering Permissions,Engineering Workflow,No,No,Engineering
+PILOT,Pilot,software,ivan.bianchi@fabrikam.com,2025-11-17,1640,Engineering Permissions,Engineering Workflow,No,No,Engineering
+R2020,R2020,software,mia.ferrari@fabrikam.com,2026-03-14,3572,Engineering Permissions,Engineering Workflow,No,Yes,Engineering
+R2021,R2021,software,laura.santos@fabrikam.com,2025-04-30,4320,Engineering Permissions,Engineering Workflow,No,No,Engineering
+TMP,TMP,software,nuria.silva3@fabrikam.com,2024-12-19,7,Default Permission Scheme,Engineering Workflow,No,No,Engineering

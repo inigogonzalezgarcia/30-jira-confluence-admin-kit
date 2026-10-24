@@ -1,0 +1,117 @@
+Board,Project,Sprint,State,Start,End,Complete date,Committed,Completed,Added after start,Carried over
+Fleet Manager,FLEET,FLEET Sprint 40,closed,2026-06-30,2026-07-14,2026-07-14,46,39,6,3
+Fleet Manager,FLEET,FLEET Sprint 41,closed,2026-07-14,2026-07-28,2026-07-28,46,46,3,3
+Fleet Manager,FLEET,FLEET Sprint 42,closed,2026-07-28,2026-08-11,2026-08-11,46,42,0,4
+Fleet Manager,FLEET,FLEET Sprint 43,closed,2026-08-11,2026-08-25,2026-08-25,44,44,4,3
+Fleet Manager,FLEET,FLEET Sprint 44,closed,2026-08-25,2026-09-08,2026-09-08,46,42,3,4
+Fleet Manager,FLEET,FLEET Sprint 45,closed,2026-09-08,2026-09-22,2026-09-22,54,47,2,6
+Fleet Manager,FLEET,FLEET Sprint 46,closed,2026-09-22,2026-10-06,2026-10-06,50,43,3,4
+Fleet Manager,FLEET,FLEET Sprint 47,closed,2026-10-06,2026-10-20,2026-10-20,44,41,4,4
+Fleet Manager,FLEET,FLEET Sprint 48,active,2026-10-20,2026-11-03,,49,,,
+Fleet Manager,FLEET,FLEET Sprint 49,future,,,,,,,
+Robot Firmware,FW,FW Sprint 40,closed,2026-06-26,2026-07-10,2026-07-10,57,48,5,16
+Robot Firmware,FW,FW Sprint 41,closed,2026-07-10,2026-07-24,2026-07-24,65,57,1,21
+Robot Firmware,FW,FW Sprint 42,closed,2026-07-24,2026-08-07,2026-08-07,65,58,3,24
+Robot Firmware,FW,FW Sprint 43,closed,2026-08-07,2026-08-21,2026-08-21,62,56,5,22
+Robot Firmware,FW,FW Sprint 44,closed,2026-08-21,2026-09-04,2026-09-04,58,57,2,19
+Robot Firmware,FW,FW Sprint 45,closed,2026-09-04,2026-09-18,2026-09-18,65,60,3,24
+Robot Firmware,FW,FW Sprint 46,closed,2026-09-18,2026-10-02,2026-10-02,64,57,5,19
+Robot Firmware,FW,FW Sprint 47,closed,2026-10-02,2026-10-16,2026-10-16,52,50,6,17
+Robot Firmware,FW,FW Sprint 48,active,2026-10-16,2026-10-30,,57,,,
+Robot Firmware,FW,FW Sprint 49,future,,,,,,,
+Navigation,NAV,NAV Sprint 40,closed,2026-06-30,2026-07-14,2026-07-14,38,34,11,4
+Navigation,NAV,NAV Sprint 41,closed,2026-07-14,2026-07-28,2026-07-28,39,35,9,2
+Navigation,NAV,NAV Sprint 42,closed,2026-07-28,2026-08-11,2026-08-11,38,32,9,2
+Navigation,NAV,NAV Sprint 43,closed,2026-08-11,2026-08-25,2026-08-25,39,35,11,2
+Navigation,NAV,NAV Sprint 44,closed,2026-08-25,2026-09-08,2026-09-08,41,36,11,4
+Navigation,NAV,NAV Sprint 45,closed,2026-09-08,2026-09-22,2026-09-22,41,32,14,0
+Navigation,NAV,NAV Sprint 46,closed,2026-09-22,2026-10-06,2026-10-06,40,34,12,3
+Navigation,NAV,NAV Sprint 47,closed,2026-10-06,2026-10-20,2026-10-20,37,37,9,2
+Navigation,NAV,NAV Sprint 48,active,2026-10-20,2026-11-03,,39,,,
+Navigation,NAV,NAV Sprint 49,future,,,,,,,
+Mobile App,MOB,MOB Sprint 40,closed,2026-06-23,2026-07-07,2026-07-07,27,14,1,13
+Mobile App,MOB,MOB Sprint 41,closed,2026-07-07,2026-07-21,2026-07-21,32,23,3,9
+Mobile App,MOB,MOB Sprint 42,closed,2026-07-21,2026-08-04,2026-08-04,31,18,2,13
+Mobile App,MOB,MOB Sprint 43,closed,2026-08-04,2026-08-18,2026-08-18,31,17,0,14
+Mobile App,MOB,MOB Sprint 44,closed,2026-08-18,2026-09-01,2026-09-01,31,18,1,13
+Mobile App,MOB,MOB Sprint 45,closed,2026-09-01,2026-09-15,2026-09-15,25,14,1,11
+Mobile App,MOB,MOB Sprint 46,closed,2026-09-15,2026-09-29,2026-09-29,31,18,2,13
+Mobile App,MOB,MOB Sprint 47,closed,2026-09-29,2026-10-13,2026-10-13,32,17,3,15
+Mobile App,MOB,MOB Sprint 48,active,2026-10-13,2026-10-27,,28,,,
+Mobile App,MOB,MOB Sprint 49,future,,,,,,,
+Data Platform,DATA,DATA Sprint 40,closed,2026-06-26,2026-07-10,2026-07-10,49,40,4,6
+Data Platform,DATA,DATA Sprint 41,closed,2026-07-10,2026-07-24,2026-07-24,49,43,0,2
+Data Platform,DATA,DATA Sprint 42,closed,2026-07-24,2026-08-07,2026-08-07,47,44,1,5
+Data Platform,DATA,DATA Sprint 43,closed,2026-08-07,2026-08-21,2026-08-21,50,41,5,4
+Data Platform,DATA,DATA Sprint 44,closed,2026-08-21,2026-09-04,2026-09-04,48,38,3,5
+Data Platform,DATA,DATA Sprint 45,closed,2026-09-04,2026-09-18,2026-09-18,42,35,4,4
+Data Platform,DATA,DATA Sprint 46,closed,2026-09-18,2026-10-02,2026-10-02,51,49,6,4
+Data Platform,DATA,DATA Sprint 47,closed,2026-10-02,2026-10-16,2026-10-16,52,48,4,6
+Data Platform,DATA,DATA Sprint 48,active,2026-10-01,2026-10-15,,46,,,
+Data Platform,DATA,DATA Sprint 49,future,,,,,,,
+Web Portal,WEB,WEB Sprint 40,closed,2026-07-02,2026-07-16,2026-07-16,51,48,4,4
+Web Portal,WEB,WEB Sprint 41,closed,2026-07-16,2026-07-30,2026-07-30,48,46,3,2
+Web Portal,WEB,WEB Sprint 42,closed,2026-07-30,2026-08-13,2026-08-13,45,45,0,4
+Web Portal,WEB,WEB Sprint 43,closed,2026-08-13,2026-08-27,2026-08-27,56,46,5,4
+Web Portal,WEB,WEB Sprint 44,closed,2026-08-27,2026-09-10,2026-09-10,56,53,2,6
+Web Portal,WEB,WEB Sprint 45,closed,2026-09-10,2026-09-24,2026-09-24,45,40,1,5
+Web Portal,WEB,WEB Sprint 46,closed,2026-09-24,2026-10-08,2026-10-08,49,39,2,7
+Web Portal,WEB,WEB Sprint 47,closed,2026-10-08,2026-10-22,2026-10-22,49,47,2,5
+Web Portal,WEB,WEB Sprint 48,active,2026-10-22,2026-11-05,,50,,,
+Web Portal,WEB,WEB Sprint 49,future,,,,,,,
+Integrations,INT,INT Sprint 40,closed,2026-07-02,2026-07-16,2026-07-16,47,36,5,4
+Integrations,INT,INT Sprint 41,closed,2026-07-16,2026-07-30,2026-07-30,49,40,1,0
+Integrations,INT,INT Sprint 42,closed,2026-07-30,2026-08-13,2026-08-13,55,49,2,4
+Integrations,INT,INT Sprint 43,closed,2026-08-13,2026-08-27,2026-08-27,48,41,3,3
+Integrations,INT,INT Sprint 44,closed,2026-08-27,2026-09-10,2026-09-10,45,39,2,2
+Integrations,INT,INT Sprint 45,closed,2026-09-10,2026-09-24,2026-09-24,55,50,3,3
+Integrations,INT,INT Sprint 46,closed,2026-09-24,2026-10-08,2026-10-08,52,46,1,4
+Integrations,INT,INT Sprint 47,closed,2026-10-08,2026-10-22,2026-10-22,44,40,3,6
+Integrations,INT,INT Sprint 48,active,2026-10-22,2026-11-05,,48,,,
+Integrations,INT,INT Sprint 49,future,,,,,,,
+Simulation,SIM,SIM Sprint 40,closed,2026-04-15,2026-04-29,2026-04-29,43,42,3,3
+Simulation,SIM,SIM Sprint 41,closed,2026-04-29,2026-05-13,2026-05-13,37,34,2,0
+Simulation,SIM,SIM Sprint 42,closed,2026-05-13,2026-05-27,2026-05-27,42,39,1,4
+Simulation,SIM,SIM Sprint 43,closed,2026-05-27,2026-06-10,2026-06-10,37,31,3,2
+Simulation,SIM,SIM Sprint 44,closed,2026-06-10,2026-06-24,2026-06-24,41,33,2,5
+Simulation,SIM,SIM Sprint 45,closed,2026-06-24,2026-07-08,2026-07-08,37,31,3,2
+Simulation,SIM,SIM Sprint 46,closed,2026-07-08,2026-07-22,2026-07-22,40,37,3,3
+Simulation,SIM,SIM Sprint 47,closed,2026-07-22,2026-08-05,2026-08-05,37,32,1,3
+QA Automation,QA,QA Sprint 40,closed,2026-06-27,2026-07-11,2026-07-11,52,41,4,4
+QA Automation,QA,QA Sprint 41,closed,2026-07-11,2026-07-25,2026-07-25,50,47,6,2
+QA Automation,QA,QA Sprint 42,closed,2026-07-25,2026-08-08,2026-08-08,54,53,6,4
+QA Automation,QA,QA Sprint 43,closed,2026-08-08,2026-08-22,2026-08-22,55,49,3,6
+QA Automation,QA,QA Sprint 44,closed,2026-08-22,2026-09-05,2026-09-05,50,45,4,5
+QA Automation,QA,QA Sprint 45,closed,2026-09-05,2026-09-19,2026-09-19,53,43,0,4
+QA Automation,QA,QA Sprint 46,closed,2026-09-19,2026-10-03,2026-10-03,51,42,1,5
+QA Automation,QA,QA Sprint 47,closed,2026-10-03,2026-10-17,2026-10-17,54,41,3,6
+QA Automation,QA,QA Sprint 48,active,2026-10-17,2026-10-31,,50,,,
+QA Automation,QA,QA Sprint 49,future,,,,,,,
+Platform Ops,OPS,OPS Sprint 40,closed,2026-06-25,2026-07-09,2026-07-09,46,41,1,1
+Platform Ops,OPS,OPS Sprint 41,closed,2026-07-09,2026-07-23,2026-07-23,51,50,1,6
+Platform Ops,OPS,OPS Sprint 42,closed,2026-07-23,2026-08-06,2026-08-06,49,44,6,3
+Platform Ops,OPS,OPS Sprint 43,closed,2026-08-06,2026-08-20,2026-08-20,52,37,3,4
+Platform Ops,OPS,OPS Sprint 44,closed,2026-08-20,2026-09-03,2026-09-03,47,47,3,3
+Platform Ops,OPS,OPS Sprint 45,closed,2026-09-03,2026-09-17,2026-09-17,55,54,0,3
+Platform Ops,OPS,OPS Sprint 46,closed,2026-09-17,2026-10-01,2026-10-01,52,43,6,5
+Platform Ops,OPS,OPS Sprint 47,closed,2026-10-01,2026-10-15,2026-10-15,55,55,1,4
+Platform Ops,OPS,OPS Sprint 48,active,2026-10-15,2026-10-29,,51,,,
+Platform Ops,OPS,OPS Sprint 49,future,,,,,,,
+Vision,VIS,VIS Sprint 40,closed,2026-06-24,2026-07-08,2026-07-08,59,52,4,5
+Vision,VIS,VIS Sprint 41,closed,2026-07-08,2026-07-22,2026-07-22,67,62,3,3
+Vision,VIS,VIS Sprint 42,closed,2026-07-22,2026-08-05,2026-08-05,65,58,7,3
+Vision,VIS,VIS Sprint 43,closed,2026-08-05,2026-08-19,2026-08-19,60,50,4,7
+Vision,VIS,VIS Sprint 44,closed,2026-08-19,2026-09-02,2026-09-02,59,50,5,4
+Vision,VIS,VIS Sprint 45,closed,2026-09-02,2026-09-16,2026-09-16,55,44,4,5
+Vision,VIS,VIS Sprint 46,closed,2026-09-16,2026-09-30,2026-09-30,59,47,1,3
+Vision,VIS,VIS Sprint 47,closed,2026-09-30,2026-10-14,2026-10-14,66,54,8,6
+Vision,VIS,VIS Sprint 48,active,2026-10-14,2026-10-28,,60,,,
+Vision,VIS,VIS Sprint 49,future,,,,,,,
+Legacy Scanner,LSC,LSC Sprint 40,closed,2026-03-06,2026-03-20,2026-03-20,28,23,1,3
+Legacy Scanner,LSC,LSC Sprint 41,closed,2026-03-20,2026-04-03,2026-04-03,35,31,0,2
+Legacy Scanner,LSC,LSC Sprint 42,closed,2026-04-03,2026-04-17,2026-04-17,29,23,2,3
+Legacy Scanner,LSC,LSC Sprint 43,closed,2026-04-17,2026-05-01,2026-05-01,32,27,2,5
+Legacy Scanner,LSC,LSC Sprint 44,closed,2026-05-01,2026-05-15,2026-05-15,30,26,1,4
+Legacy Scanner,LSC,LSC Sprint 45,closed,2026-05-15,2026-05-29,2026-05-29,28,25,3,2
+Legacy Scanner,LSC,LSC Sprint 46,closed,2026-05-29,2026-06-12,2026-06-12,34,30,2,4
+Legacy Scanner,LSC,LSC Sprint 47,closed,2026-06-12,2026-06-26,2026-06-26,28,25,2,1

@@ -1,0 +1,48 @@
+{
+  "site": "fabrikam-robotics.atlassian.net",
+  "as_of": "2026-10-24",
+  "managed_domains": [
+    "fabrikam.com"
+  ],
+  "seats": {
+    "jira": 400,
+    "confluence": 500,
+    "jsm": 45
+  },
+  "price": {
+    "jira": 8.6,
+    "confluence": 6.1,
+    "jsm": 21.0
+  },
+  "currency": "\u20ac",
+  "inactive_days": 90,
+  "never_used_days": 30,
+  "admin_groups": [
+    "site-admins",
+    "org-admins",
+    "jira-admins",
+    "confluence-admins"
+  ],
+  "max_admins": 6,
+  "service_patterns": [
+    "svc",
+    "automation",
+    "integration",
+    "bot",
+    "noreply"
+  ],
+  "service_owners": {
+    "svc-jenkins@fabrikam.com": "Platform Ops"
+  },
+  "project_stale_days": 180,
+  "space_stale_days": 365,
+  "field_unused_days": 365,
+  "custom_field_budget": 400,
+  "shared_scheme_min": 3,
+  "sprint_window": 6,
+  "carryover_max_pct": 20,
+  "scope_added_max_pct": 15,
+  "say_do_min_pct": 70,
+  "board_idle_days": 45,
+  "sprint_overdue_days": 3
+}

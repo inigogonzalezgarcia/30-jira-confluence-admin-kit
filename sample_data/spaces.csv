@@ -1,0 +1,79 @@
+Key,Name,Type,Status,Last updated,Pages,Admins,Anonymous access
+ENG,Eng,global,current,2026-09-07,656,sofia.diaz@fabrikam.com; elena.weber@fabrikam.com,No
+PROD,Prod,global,current,2026-09-03,2000,lucia.schmidt@fabrikam.com; anna.torres@fabrikam.com,No
+OPS,Ops,global,current,2026-07-02,1441,julia.ruiz6@fabrikam.com; hugo.martin@fabrikam.com,No
+SUPPORT,Support,global,current,2026-07-27,119,sofia.romero8@fabrikam.com; sofia.perez@fabrikam.com,No
+IT,It,global,current,2026-07-16,267,ana.weber@fabrikam.com; diego.ferrari@fabrikam.com,No
+HR,Hr,global,current,2026-09-06,2158,sofia.kowalski@fabrikam.com; piotr.navarro9@fabrikam.com,No
+FIN,Fin,global,current,2026-07-20,727,tomas.weber6@fabrikam.com; marta.diaz@fabrikam.com,No
+SALES,Sales,global,current,2026-07-25,1827,pablo.santos@fabrikam.com; mia.romero@fabrikam.com,No
+QUALITY,Quality,global,current,2026-10-19,982,hugo.gomez@fabrikam.com; tomasz.schmidt@fabrikam.com,No
+ARCH,Arch,global,current,2025-08-14,692,ana.weber@fabrikam.com; anna.diaz@fabrikam.com,No
+FW,Fw,global,current,2026-06-28,1524,pablo.moreno8@fabrikam.com; noah.ruiz3@fabrikam.com,No
+NAV,Nav,global,current,2026-07-06,1580,oscar.muller6@fabrikam.com; adrian.sanchez5@fabrikam.com,No
+FLEET,Fleet,global,current,2026-06-29,1492,adrian.romero@fabrikam.com; tomas.wojcik6@fabrikam.com,No
+MOB,Mob,global,current,2026-07-15,146,mario.martin2@fabrikam.com; piotr.moreno@fabrikam.com,No
+DATA,Data,global,current,2026-08-07,1725,javier.moreno@fabrikam.com; emma.martin@fabrikam.com,No
+WEB,Web,global,current,2026-08-14,818,laura.silva@fabrikam.com; anna.rossi@fabrikam.com,No
+INT,Int,global,current,2026-08-09,25,elena.ruiz6@fabrikam.com; lukas.sanchez@fabrikam.com,No
+SIM,Sim,global,current,2026-09-16,930,anna.sanchez@fabrikam.com; pablo.kowalski8@fabrikam.com,No
+QA,Qa,global,current,2026-07-31,2366,hannah.ferrari@fabrikam.com; nuria.romero6@fabrikam.com,No
+VIS,Vis,global,current,2026-10-10,1984,mia.romero@fabrikam.com; marta.silva3@fabrikam.com,No
+SEC,Sec,global,current,2026-10-22,1159,diego.nowak6@fabrikam.com; clara.fischer@fabrikam.com,No
+LEGAL,Legal,global,current,2026-09-20,1552,raul.ruiz4@fabrikam.com; julia.schmidt8@fabrikam.com,No
+MKT,Mkt,global,current,2026-07-19,637,lucia.silva@fabrikam.com; pablo.schmidt@fabrikam.com,No
+ONBOARD,Onboard,global,current,2026-10-13,472,marta.silva3@fabrikam.com; paula.rossi3@fabrikam.com,No
+HANDBOOK,Handbook,global,current,2026-09-21,1908,lukas.costa7@fabrikam.com; mia.torres@fabrikam.com,No
+PUBLIC,Public,global,current,2026-08-30,1012,irene.sanchez@fabrikam.com; alba.ferrer@fabrikam.com,Yes
+RELEASES,Releases,global,current,2026-09-21,634,pablo.gomez@fabrikam.com; pablo.schmidt@fabrikam.com,No
+RUNBOOKS,Runbooks,global,current,2026-10-09,356,giulia.martin@fabrikam.com; ivan.moreno8@fabrikam.com,No
+MEETINGS,Meetings,global,current,2023-05-18,1794,clara.perez@fabrikam.com; pablo.moreno8@fabrikam.com,No
+RETRO,Retro,global,current,2026-09-03,2080,hannah.muller@fabrikam.com; anna.ferrari@fabrikam.com,No
+DESIGN,Design,global,current,2026-10-11,57,oscar.wojcik3@fabrikam.com; sofia.kowalski@fabrikam.com,No
+UX,Ux,global,current,2026-09-22,1767,felix.ferrari@fabrikam.com; javier.bianchi2@fabrikam.com,No
+PARTNERS,Partners,global,current,2026-07-02,129,ruben.ortega@fabrikam.com,Yes
+TRAINING,Training,global,current,2026-09-08,1866,nuria.romero6@fabrikam.com; emma.kowalski@fabrikam.com,No
+EVENTS,Events,global,current,2025-03-07,1591,mario.martin2@fabrikam.com; oscar.garcia@fabrikam.com,No
+WIKI,Wiki,global,current,2026-09-04,1537,sara.costa@fabrikam.com; adrian.lopez@fabrikam.com,No
+OLDWIKI,Oldwiki,global,archived,2024-07-10,2280,ana.bianchi@fabrikam.com; lucia.muller@fabrikam.com,No
+HACK2023,Hack2023,global,current,2025-09-13,2114,julia.lopez7@fabrikam.com; tomasz.lopez4@fabrikam.com,No
+PROJX,Projx,global,current,2023-04-26,1604,ana.garcia@fabrikam.com,No
+TEMP,Temp,global,current,2023-04-20,2285,ana.garcia@fabrikam.com,No
+KB,Kb,global,current,2026-07-10,1663,anna.muller@fabrikam.com; giulia.schmidt@fabrikam.com,No
+API,Api,global,current,2026-07-17,1298,diego.costa3@fabrikam.com; lena.martin@fabrikam.com,No
+SDK,Sdk,global,current,2026-09-02,820,paula.santos@fabrikam.com; sofia.perez@fabrikam.com,No
+HW,Hw,global,current,2026-09-21,312,ivan.navarro@fabrikam.com; sofia.nowak@fabrikam.com,No
+PCB,Pcb,global,current,2024-06-26,966,former.lead@fabrikam.com,No
+MECH,Mech,global,current,2026-10-07,2128,hannah.gomez@fabrikam.com; ola.diaz5@fabrikam.com,No
+CERT,Cert,global,current,2023-11-04,1355,mario.costa@fabrikam.com; pablo.schmidt@fabrikam.com,No
+LAB,Lab,global,current,2025-01-19,503,mia.silva8@fabrikam.com; raul.santos3@fabrikam.com,No
+~oscartorres,oscar.torres,personal,current,2026-06-09,36,oscar.torres@fabrikam.com,No
+~adriansanchez5,adrian.sanchez5,personal,current,2026-10-21,3,adrian.sanchez5@fabrikam.com,No
+~nuriamartin,nuria.martin,personal,current,2026-01-26,5,nuria.martin@fabrikam.com,No
+~elenanowak,elena.nowak,personal,current,2025-07-13,20,elena.nowak@fabrikam.com,No
+~tomaszlopez,tomasz.lopez,personal,current,2026-04-14,20,tomasz.lopez@fabrikam.com,No
+~clararuiz,clara.ruiz,personal,current,2026-07-11,33,clara.ruiz@fabrikam.com,No
+~saracosta,sara.costa,personal,current,2026-08-03,53,sara.costa@fabrikam.com,No
+~miabianchi,mia.bianchi,personal,current,2025-11-18,3,mia.bianchi@fabrikam.com,No
+~piotrdiaz4,piotr.diaz4,personal,current,2025-03-19,6,piotr.diaz4@fabrikam.com,No
+~adrianmuller6,adrian.muller6,personal,current,2024-12-04,11,adrian.muller6@fabrikam.com,No
+~paularossi3,paula.rossi3,personal,current,2025-06-26,10,paula.rossi3@fabrikam.com,No
+~hannahmartin,hannah.martin,personal,current,2025-04-23,43,hannah.martin@fabrikam.com,No
+~annaferrari,anna.ferrari,personal,current,2025-12-03,1,anna.ferrari@fabrikam.com,No
+~lukaslopez8,lukas.lopez8,personal,current,2026-03-06,24,lukas.lopez8@fabrikam.com,No
+~pablodiaz,pablo.diaz,personal,current,2026-08-23,46,pablo.diaz@fabrikam.com,No
+~raulgomez,raul.gomez,personal,current,2025-05-06,47,raul.gomez@fabrikam.com,No
+~ivanmuller7,ivan.muller7,personal,current,2025-10-23,8,ivan.muller7@fabrikam.com,No
+~noahnowak,noah.nowak,personal,current,2025-08-15,51,noah.nowak@fabrikam.com,No
+~luiskowalski,luis.kowalski,personal,current,2025-10-09,15,luis.kowalski@fabrikam.com,No
+~adrianfischer4,adrian.fischer4,personal,current,2025-04-01,47,adrian.fischer4@fabrikam.com,No
+~paulasanchez,paula.sanchez,personal,current,2026-08-28,27,paula.sanchez@fabrikam.com,No
+~emmagomez,emma.gomez,personal,current,2025-06-02,11,emma.gomez@fabrikam.com,No
+~anamoreno,ana.moreno,personal,current,2024-11-28,25,ana.moreno@fabrikam.com,No
+~lenaromero,lena.romero,personal,current,2025-07-24,38,lena.romero@fabrikam.com,No
+~miafischer,mia.fischer,personal,current,2024-12-17,2,mia.fischer@fabrikam.com,No
+~laurasantos,laura.santos,personal,current,2025-03-19,40,laura.santos@fabrikam.com,No
+~sararossi,sara.rossi,personal,current,2026-09-29,29,sara.rossi@fabrikam.com,No
+~anagarcia,ana.garcia,personal,current,2025-07-31,8,ana.garcia@fabrikam.com,No
+~rubenortega,ruben.ortega,personal,current,2026-01-30,5,ruben.ortega@fabrikam.com,No
+~formerlead,former.lead,personal,current,2025-06-03,44,former.lead@fabrikam.com,No

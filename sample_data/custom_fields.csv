@@ -1,0 +1,461 @@
+Name,Type,Contexts,Projects,Issues with value,Last used
+Serial number,User Picker (single user),1,Global,227,2025-02-03
+Serial number,User Picker (single user),5,Global,18878,2026-06-05
+Severity,User Picker (single user),1,Global,0,
+Site,Select List (single choice),2,Global,0,
+Story points,Text Field (single line),5,10,29397,2026-08-13
+Due window,Date Picker,3,Global,27329,2026-09-11
+Site,Paragraph,2,Global,10103,2026-08-18
+Firmware version,Text Field (single line),5,3,28340,2026-06-29
+Component,User Picker (single user),1,Global,10818,2026-06-06
+Team,Select List (single choice),5,Global,204,2024-09-19
+Robot model,Number Field,5,12,0,
+Serial number,Date Picker,1,6,3775,2026-05-12
+Root cause,Paragraph,1,7,184,2023-10-14
+Supplier,Select List (single choice),1,Global,16337,2026-07-25
+Story points,Number Field,5,7,973,2026-10-22
+Region,Labels,5,11,19772,2026-07-14
+Root cause,Paragraph,3,7,357,2024-04-09
+Approval,Number Field,7,5,0,
+Cost centre,Paragraph,1,6,6633,2026-06-15
+Sprint goal,Checkboxes,2,11,0,
+Sprint goal 20,Number Field,1,Global,10492,2026-05-10
+Release 21,Number Field,2,4,0,
+Supplier 22,User Picker (single user),1,6,6458,2026-07-17
+Component 23,Date Picker,1,11,0,
+Risk 24,Date Picker,1,Global,29110,2026-07-09
+Story points 25,Number Field,1,Global,17203,2026-09-13
+Robot model 26,Paragraph,1,6,18179,2026-04-25
+Firmware version 27,Text Field (single line),5,8,0,
+Due window 28,Labels,5,2,557,2026-07-10
+Due window 29,Text Field (single line),2,7,2689,2026-10-23
+Customer 30,Paragraph,3,5,0,
+Warehouse 31,Paragraph,3,8,22612,2026-04-28
+Serial number 32,Number Field,1,Global,15842,2026-06-04
+Risk 33,Text Field (single line),5,2,20123,2026-10-09
+Firmware version 34,Date Picker,5,Global,12055,2026-05-15
+Sprint goal 35,Number Field,1,5,0,
+Sprint goal 36,Number Field,3,Global,7138,2026-04-07
+Team 37,Number Field,1,2,230,2024-07-21
+Due window 38,Checkboxes,1,3,15648,2026-05-30
+Customer 39,Labels,3,Global,20696,2026-05-29
+Region 40,Paragraph,1,2,9396,2026-05-12
+Sprint goal 41,Select List (single choice),2,2,28837,2026-08-07
+Customer 42,Text Field (single line),7,4,0,
+Sprint goal 43,Select List (single choice),2,2,1526,2026-09-13
+Approval 44,Select List (single choice),2,8,198,2024-01-20
+Region 45,Text Field (single line),2,Global,0,
+Robot model 46,Number Field,3,12,13217,2026-05-16
+Due window 47,Select List (single choice),3,Global,0,
+Serial number 48,Paragraph,5,5,9760,2026-04-16
+Approval 49,Labels,1,Global,29937,2026-07-17
+Firmware version 50,Paragraph,1,4,267,2024-10-27
+Story points 51,Date Picker,1,11,0,
+Component 52,Select List (single choice),2,5,2762,2026-08-13
+Sprint goal 53,Select List (single choice),5,12,155,2022-12-29
+Site 54,Labels,1,Global,9240,2026-07-11
+Approval 55,Number Field,1,Global,11727,2026-10-14
+Root cause 56,Select List (single choice),1,Global,5876,2026-07-31
+Robot model 57,Checkboxes,1,5,4403,2026-06-10
+Customer 58,Labels,1,10,28417,2026-07-17
+Story points 59,Paragraph,1,4,0,
+Robot model 60,Number Field,3,2,23653,2026-09-05
+Story points 61,Labels,1,Global,28180,2026-05-06
+Root cause 62,Date Picker,5,3,245,2024-03-30
+Risk 63,Paragraph,1,Global,10406,2026-09-03
+Cost centre 64,Text Field (single line),1,Global,8659,2026-09-16
+Root cause 65,Text Field (single line),1,Global,0,
+Story points 66,Text Field (single line),1,2,0,
+Supplier 67,Select List (single choice),1,11,294,2024-03-01
+Serial number 68,Labels,1,3,21710,2026-10-16
+Site 69,Text Field (single line),5,Global,14323,2026-07-15
+Component 70,Number Field,1,8,11260,2026-09-05
+Serial number 71,Select List (single choice),5,Global,21145,2026-04-08
+Batch 72,Labels,1,Global,15276,2026-08-25
+Team 73,Number Field,3,6,12952,2026-04-22
+Warehouse 74,User Picker (single user),2,3,25316,2026-10-11
+Robot model 75,Date Picker,7,7,0,
+Site 76,Date Picker,3,3,0,
+Root cause 77,Paragraph,3,7,7691,2026-06-28
+Serial number 78,Number Field,1,Global,22677,2026-05-21
+Serial number 79,Select List (single choice),5,Global,10567,2026-09-21
+Cost centre 80,Number Field,5,5,8489,2026-09-30
+Story points 81,Labels,1,Global,25286,2026-07-15
+Warehouse 82,Labels,3,11,25167,2026-10-05
+Component 83,Date Picker,1,5,29647,2026-08-06
+Customer 84,Labels,1,Global,9471,2026-04-19
+Team 85,Checkboxes,5,1,0,
+Robot model 86,Text Field (single line),5,8,14702,2026-09-25
+Firmware version 87,Number Field,5,12,3891,2026-09-16
+Risk 88,Checkboxes,1,5,1876,2026-05-06
+Severity 89,Select List (single choice),2,7,113,2026-08-24
+Root cause 90,Text Field (single line),1,Global,0,
+Region 91,Date Picker,1,Global,27207,2026-04-26
+Batch 92,Text Field (single line),1,7,1061,2026-05-01
+Risk 93,Date Picker,1,9,3370,2026-07-27
+Root cause 94,Text Field (single line),1,5,0,
+Sprint goal 95,Date Picker,3,11,28911,2026-05-23
+Team 96,Select List (single choice),3,8,11272,2026-04-14
+Due window 97,Select List (single choice),1,Global,29343,2026-08-26
+Severity 98,Select List (single choice),3,Global,181,2026-09-10
+Team 99,Date Picker,1,Global,23846,2026-05-19
+Cost centre 100,Text Field (single line),1,5,49,2024-03-31
+Robot model 101,Number Field,1,6,0,
+Site 102,User Picker (single user),3,6,10273,2026-04-25
+Root cause 103,Select List (single choice),1,2,0,
+Site 104,Date Picker,1,9,16148,2026-07-28
+Story points 105,Number Field,1,10,0,
+Region 106,User Picker (single user),1,Global,374,2023-08-30
+Warehouse 107,Text Field (single line),2,Global,14045,2026-07-08
+Robot model 108,Number Field,1,10,3090,2026-04-24
+Sprint goal 109,User Picker (single user),3,9,0,
+Story points 110,Number Field,5,Global,27197,2026-10-04
+Robot model 111,Number Field,5,6,24356,2026-10-21
+Story points 112,Labels,1,3,21573,2026-09-07
+Approval 113,Select List (single choice),2,Global,13586,2026-10-14
+Approval 114,Checkboxes,1,3,8832,2026-06-18
+Region 115,Date Picker,1,8,0,
+Release 116,Paragraph,5,Global,11225,2026-07-26
+Sprint goal 117,Number Field,3,11,6715,2026-09-11
+Serial number 118,Number Field,5,Global,4692,2026-10-06
+Batch 119,Labels,3,9,24450,2026-08-20
+Severity 120,Paragraph,1,7,2665,2026-09-06
+Sprint goal 121,Labels,5,3,0,
+Warehouse 122,Number Field,1,6,16230,2026-09-20
+Warehouse 123,Text Field (single line),5,2,14528,2026-07-30
+Region 124,Select List (single choice),1,9,0,
+Story points 125,User Picker (single user),1,1,16257,2026-04-13
+Region 126,Select List (single choice),1,10,21715,2026-05-10
+Region 127,Text Field (single line),3,9,26446,2026-07-05
+Firmware version 128,User Picker (single user),1,2,0,
+Supplier 129,Number Field,1,12,27711,2026-09-25
+Serial number 130,Checkboxes,7,6,0,
+Release 131,Date Picker,1,11,25663,2026-10-10
+Serial number 132,Paragraph,3,6,27563,2026-07-28
+Severity 133,Checkboxes,1,11,11075,2026-04-16
+Region 134,Number Field,3,Global,3745,2026-08-17
+Robot model 135,User Picker (single user),2,12,7600,2026-05-08
+Severity 136,User Picker (single user),1,1,11110,2026-10-11
+Risk 137,Text Field (single line),1,12,25884,2026-10-06
+Site 138,User Picker (single user),5,3,1820,2026-06-13
+Warehouse 139,User Picker (single user),1,Global,11872,2026-07-26
+Customer 140,User Picker (single user),2,5,28841,2026-06-16
+Story points 141,Number Field,3,9,3783,2026-05-24
+Severity 142,Number Field,1,9,29155,2026-05-01
+Supplier 143,Paragraph,1,Global,20698,2026-08-20
+Cost centre 144,Labels,7,4,0,
+Batch 145,Select List (single choice),1,8,23072,2026-08-14
+Site 146,User Picker (single user),3,Global,1563,2026-08-19
+Robot model 147,Labels,2,7,0,
+Team 148,Select List (single choice),1,3,0,
+Severity 149,Select List (single choice),1,5,0,
+Robot model 150,Paragraph,1,8,19489,2026-04-08
+Region 151,Number Field,1,7,15836,2026-06-16
+Site 152,Labels,5,7,219,2024-07-04
+Supplier 153,Date Picker,1,11,17972,2026-04-25
+Site 154,User Picker (single user),1,7,12686,2026-05-19
+Site 155,User Picker (single user),5,6,1320,2026-08-08
+Warehouse 156,Text Field (single line),3,10,10483,2026-08-09
+Approval 157,Text Field (single line),2,Global,0,
+Supplier 158,Number Field,1,Global,378,2025-02-25
+Release 159,Paragraph,1,Global,13438,2026-06-17
+Team 160,Text Field (single line),3,Global,8642,2026-10-01
+Team 161,Text Field (single line),2,4,7378,2026-10-12
+Region 162,Checkboxes,5,5,23814,2026-09-17
+Supplier 163,User Picker (single user),3,Global,20608,2026-08-10
+Robot model 164,Date Picker,1,Global,8748,2026-07-19
+Approval 165,User Picker (single user),2,Global,21186,2026-05-21
+Cost centre 166,Checkboxes,1,5,8976,2026-04-30
+Firmware version 167,Labels,1,Global,19694,2026-05-14
+Customer 168,Number Field,5,5,8766,2026-06-04
+Serial number 169,Checkboxes,3,11,432,2026-08-10
+Story points 170,Checkboxes,2,Global,28655,2026-05-13
+Customer 171,Checkboxes,2,3,0,
+Root cause 172,Date Picker,3,Global,0,
+Root cause 173,Checkboxes,5,Global,0,
+Site 174,Select List (single choice),1,Global,0,
+Firmware version 175,Date Picker,3,3,1670,2026-05-14
+Risk 176,User Picker (single user),1,8,260,2025-03-10
+Root cause 177,Paragraph,1,Global,14882,2026-05-21
+Approval 178,Checkboxes,5,Global,0,
+Warehouse 179,Date Picker,1,8,63,2025-06-09
+Approval 180,Paragraph,3,Global,3666,2026-09-09
+Customer 181,Text Field (single line),3,3,27308,2026-05-23
+Site 182,Number Field,1,1,24960,2026-06-23
+Batch 183,User Picker (single user),1,Global,0,
+Release 184,Text Field (single line),1,Global,12203,2026-09-18
+Site 185,Date Picker,1,2,558,2026-08-03
+Firmware version 186,Checkboxes,1,Global,28056,2026-10-15
+Sprint goal 187,Number Field,1,11,121,2026-06-20
+Customer 188,Labels,5,11,29627,2026-08-10
+Supplier 189,Text Field (single line),1,9,0,
+Serial number 190,Labels,7,8,0,
+Team 191,User Picker (single user),2,3,10929,2026-09-01
+Risk 192,Paragraph,1,Global,24026,2026-05-28
+Cost centre 193,Number Field,5,6,0,
+Cost centre 194,Date Picker,2,8,16623,2026-10-06
+Cost centre 195,Paragraph,3,9,0,
+Release 196,User Picker (single user),1,11,0,
+Region 197,Select List (single choice),2,2,1354,2026-09-25
+Risk 198,Text Field (single line),5,10,23312,2026-07-09
+Supplier 199,Date Picker,3,12,7893,2026-06-09
+Region 200,Checkboxes,2,Global,14234,2026-04-23
+Root cause 201,Checkboxes,3,7,137,2023-06-16
+Serial number 202,User Picker (single user),1,6,6308,2026-06-20
+Approval 203,Labels,1,8,339,2026-09-11
+Severity 204,Checkboxes,3,8,6853,2026-09-24
+Component 205,Text Field (single line),1,11,21064,2026-09-27
+Site 206,Paragraph,1,Global,3672,2026-04-13
+Region 207,Text Field (single line),1,Global,25685,2026-04-15
+Release 208,Number Field,2,Global,19390,2026-09-01
+Customer 209,Date Picker,5,3,15,2023-06-27
+Story points 210,Select List (single choice),1,1,1090,2026-09-29
+Cost centre 211,User Picker (single user),1,Global,702,2026-05-09
+Severity 212,Checkboxes,2,Global,19749,2026-07-19
+Cost centre 213,Select List (single choice),2,Global,0,
+Batch 214,Date Picker,7,1,0,
+Team 215,Paragraph,1,9,11454,2026-09-16
+Release 216,Select List (single choice),1,Global,0,
+Component 217,Labels,3,5,24561,2026-08-26
+Warehouse 218,User Picker (single user),1,Global,10679,2026-08-21
+Firmware version 219,Checkboxes,1,9,18567,2026-06-16
+Warehouse 220,Text Field (single line),1,12,14032,2026-10-18
+Approval 221,User Picker (single user),1,2,22099,2026-04-09
+Sprint goal 222,Date Picker,7,3,0,
+Serial number 223,Date Picker,3,8,0,
+Sprint goal 224,Labels,1,8,5150,2026-08-01
+Firmware version 225,Date Picker,1,3,6845,2026-06-17
+Root cause 226,Labels,1,Global,0,
+Warehouse 227,Select List (single choice),5,6,236,2025-08-26
+Due window 228,Checkboxes,1,4,0,
+Team 229,Paragraph,1,11,15431,2026-06-19
+Batch 230,Labels,3,Global,300,2023-03-11
+Customer 231,User Picker (single user),1,3,21385,2026-09-25
+Serial number 232,Date Picker,5,1,25881,2026-06-01
+Site 233,Paragraph,2,8,191,2024-10-30
+Sprint goal 234,Paragraph,2,8,26380,2026-08-15
+Due window 235,Checkboxes,1,7,9012,2026-08-30
+Sprint goal 236,Select List (single choice),2,7,22989,2026-09-29
+Cost centre 237,Select List (single choice),1,Global,0,
+Team 238,Paragraph,2,Global,28778,2026-08-15
+Due window 239,Text Field (single line),7,Global,0,
+Customer 240,Date Picker,1,Global,12104,2026-08-22
+Customer 241,Paragraph,1,9,4696,2026-05-09
+Serial number 242,Checkboxes,1,Global,17804,2026-09-16
+Cost centre 243,Text Field (single line),1,6,15349,2026-04-11
+Warehouse 244,Labels,3,9,3214,2026-07-28
+Risk 245,Checkboxes,1,Global,23901,2026-10-09
+Firmware version 246,Paragraph,2,12,11125,2026-08-01
+Severity 247,User Picker (single user),1,4,18068,2026-09-05
+Release 248,Number Field,1,8,7685,2026-10-01
+Robot model 249,User Picker (single user),1,Global,0,
+Site 250,User Picker (single user),2,1,0,
+Customer 251,Paragraph,7,2,0,
+Customer 252,User Picker (single user),1,8,292,2026-08-11
+Component 253,Paragraph,2,Global,20687,2026-08-15
+Risk 254,Number Field,2,2,9650,2026-06-13
+Supplier 255,Labels,1,5,22137,2026-08-19
+Customer 256,Labels,1,2,15640,2026-05-23
+Customer 257,Checkboxes,1,Global,0,
+Approval 258,User Picker (single user),5,11,20084,2026-04-11
+Severity 259,Number Field,5,7,28741,2026-04-27
+Release 260,Paragraph,7,10,0,
+Robot model 261,Paragraph,1,9,0,
+Robot model 262,Date Picker,1,9,24066,2026-09-10
+Warehouse 263,Paragraph,1,10,355,2023-07-30
+Root cause 264,Select List (single choice),2,8,26350,2026-10-09
+Robot model 265,Labels,7,12,0,
+Story points 266,User Picker (single user),1,Global,17096,2026-09-26
+Severity 267,Select List (single choice),5,1,25510,2026-08-29
+Customer 268,User Picker (single user),1,8,0,
+Region 269,Select List (single choice),1,6,7119,2026-09-27
+Due window 270,Checkboxes,1,Global,26000,2026-05-16
+Cost centre 271,Paragraph,2,4,19222,2026-04-23
+Robot model 272,User Picker (single user),5,3,22438,2026-04-26
+Team 273,Paragraph,1,5,13068,2026-09-12
+Story points 274,Select List (single choice),5,7,26216,2026-09-08
+Robot model 275,Text Field (single line),1,5,20116,2026-07-02
+Severity 276,Checkboxes,1,Global,284,2026-05-15
+Region 277,Date Picker,3,4,102,2025-08-24
+Release 278,Text Field (single line),7,1,0,
+Region 279,Select List (single choice),1,12,8573,2026-04-21
+Supplier 280,Text Field (single line),1,9,21619,2026-10-08
+Cost centre 281,Text Field (single line),1,1,22821,2026-06-07
+Region 282,Number Field,7,Global,0,
+Severity 283,Paragraph,3,10,5470,2026-08-01
+Site 284,Labels,2,Global,5940,2026-10-11
+Sprint goal 285,Labels,1,3,27235,2026-08-04
+Supplier 286,Text Field (single line),5,4,13222,2026-09-21
+Root cause 287,Checkboxes,5,1,19054,2026-08-12
+Robot model 288,Date Picker,2,1,368,2023-02-13
+Root cause 289,Date Picker,2,8,28576,2026-05-25
+Customer 290,Select List (single choice),5,Global,4598,2026-09-23
+Team 291,Text Field (single line),1,1,4509,2026-05-09
+Story points 292,Labels,7,Global,0,
+Release 293,Select List (single choice),1,Global,65,2025-04-01
+Approval 294,User Picker (single user),2,Global,11896,2026-05-14
+Cost centre 295,Checkboxes,3,10,21620,2026-09-06
+Cost centre 296,Checkboxes,3,1,27884,2026-09-03
+Warehouse 297,Labels,2,3,5890,2026-07-25
+Batch 298,Number Field,7,10,0,
+Serial number 299,Checkboxes,1,9,14607,2026-09-02
+Batch 300,Paragraph,5,10,10724,2026-06-02
+Due window 301,Labels,3,10,19135,2026-08-10
+Risk 302,Text Field (single line),1,10,7586,2026-10-01
+Serial number 303,Checkboxes,3,1,12037,2026-06-18
+Region 304,Number Field,3,Global,22204,2026-05-28
+Robot model 305,Text Field (single line),5,Global,0,
+Warehouse 306,Select List (single choice),1,11,13818,2026-06-04
+Approval 307,Date Picker,1,5,8473,2026-07-26
+Due window 308,Number Field,1,10,240,2023-02-01
+Release 309,Number Field,5,6,18608,2026-10-02
+Region 310,Checkboxes,1,10,17613,2026-04-13
+Sprint goal 311,Paragraph,5,Global,21894,2026-10-05
+Risk 312,User Picker (single user),5,1,17783,2026-06-22
+Cost centre 313,Select List (single choice),1,7,21284,2026-07-26
+Firmware version 314,Paragraph,1,10,23320,2026-08-04
+Serial number 315,Labels,1,3,17903,2026-10-06
+Site 316,Checkboxes,1,1,0,
+Warehouse 317,Date Picker,5,Global,25396,2026-10-21
+Supplier 318,Labels,3,4,335,2024-09-28
+Robot model 319,Paragraph,2,Global,16713,2026-09-17
+Robot model 320,User Picker (single user),1,Global,93,2025-01-12
+Team 321,Text Field (single line),3,11,5201,2026-06-20
+Severity 322,Labels,7,10,0,
+Customer 323,Text Field (single line),1,10,27117,2026-10-09
+Supplier 324,Paragraph,1,8,17975,2026-07-06
+Region 325,Date Picker,1,12,24009,2026-08-15
+Serial number 326,User Picker (single user),7,10,0,
+Warehouse 327,Checkboxes,2,3,1935,2026-04-22
+Due window 328,Labels,5,Global,23361,2026-09-10
+Story points 329,Select List (single choice),1,Global,0,
+Release 330,Labels,1,8,9082,2026-06-17
+Serial number 331,Number Field,5,3,5082,2026-06-19
+Approval 332,Labels,1,2,20302,2026-10-05
+Supplier 333,Labels,3,6,3401,2026-06-17
+Supplier 334,Paragraph,5,Global,18197,2026-10-11
+Team 335,Number Field,2,1,12916,2026-07-04
+Serial number 336,Paragraph,1,5,88,2026-04-15
+Component 337,Date Picker,1,12,17393,2026-07-08
+Serial number 338,Paragraph,3,Global,268,2024-06-16
+Batch 339,Date Picker,2,Global,2097,2026-06-11
+Site 340,Labels,1,10,27390,2026-04-21
+Release 341,User Picker (single user),1,10,5363,2026-09-19
+Batch 342,Select List (single choice),5,10,20622,2026-08-13
+Serial number 343,Date Picker,3,7,9538,2026-04-30
+Severity 344,Select List (single choice),2,2,202,2023-01-12
+Robot model 345,Labels,5,12,25832,2026-06-17
+Batch 346,Select List (single choice),5,2,286,2022-09-18
+Sprint goal 347,Paragraph,1,12,2268,2026-08-21
+Robot model 348,Checkboxes,3,3,3957,2026-08-13
+Site 349,Select List (single choice),3,Global,24795,2026-05-06
+Firmware version 350,Checkboxes,3,Global,12084,2026-06-19
+Warehouse 351,Select List (single choice),1,10,20757,2026-07-27
+Robot model 352,Select List (single choice),1,5,0,
+Cost centre 353,Number Field,1,Global,14862,2026-09-24
+Firmware version 354,User Picker (single user),7,3,0,
+Warehouse 355,Checkboxes,1,2,13121,2026-10-05
+Firmware version 356,Number Field,1,7,28095,2026-08-05
+Supplier 357,Labels,3,Global,13513,2026-09-26
+Root cause 358,Labels,1,12,2743,2026-09-17
+Severity 359,Checkboxes,1,6,0,
+Robot model 360,Date Picker,3,Global,13130,2026-08-13
+Cost centre 361,Text Field (single line),2,8,1816,2026-08-02
+Customer 362,Number Field,1,Global,23626,2026-10-12
+Team 363,Labels,7,2,0,
+Supplier 364,Number Field,7,7,0,
+Approval 365,Select List (single choice),1,5,1052,2026-10-13
+Batch 366,Checkboxes,1,7,25901,2026-05-05
+Warehouse 367,Number Field,1,9,22603,2026-08-15
+Sprint goal 368,Labels,1,Global,26366,2026-08-12
+Sprint goal 369,Text Field (single line),1,6,23040,2026-09-28
+Firmware version 370,Select List (single choice),5,9,0,
+Sprint goal 371,Number Field,1,Global,6761,2026-04-12
+Root cause 372,Select List (single choice),3,Global,19379,2026-06-26
+Warehouse 373,Date Picker,1,11,5783,2026-08-15
+Serial number 374,Checkboxes,1,Global,0,
+Serial number 375,Checkboxes,1,4,29678,2026-06-21
+Site 376,User Picker (single user),1,5,26110,2026-08-08
+Firmware version 377,Checkboxes,1,12,149,2025-02-01
+Team 378,Select List (single choice),3,Global,21021,2026-05-28
+Approval 379,Text Field (single line),2,Global,18313,2026-09-12
+Sprint goal 380,Text Field (single line),1,Global,0,
+Customer 381,Paragraph,1,5,20125,2026-08-01
+Severity 382,User Picker (single user),1,1,0,
+Team 383,Number Field,2,8,27587,2026-07-04
+Supplier 384,Date Picker,5,6,0,
+Robot model 385,Paragraph,1,3,26820,2026-04-07
+Approval 386,User Picker (single user),1,6,242,2023-04-09
+Warehouse 387,Checkboxes,1,10,0,
+Customer 388,Date Picker,1,3,21176,2026-07-25
+Root cause 389,Select List (single choice),1,11,0,
+Region 390,Number Field,1,8,0,
+Risk 391,Text Field (single line),3,2,18258,2026-06-07
+Robot model 392,Text Field (single line),1,Global,25249,2026-06-23
+Sprint goal 393,Select List (single choice),5,8,8672,2026-04-29
+Risk 394,Paragraph,5,Global,19833,2026-06-18
+Component 395,Paragraph,5,1,20397,2026-07-19
+Customer 396,Paragraph,2,1,10890,2026-06-20
+Team 397,Paragraph,1,3,15769,2026-04-17
+Batch 398,Text Field (single line),2,Global,0,
+Release 399,Checkboxes,1,1,10384,2026-05-06
+Robot model 400,Date Picker,1,6,25288,2026-09-28
+Serial number 401,Labels,3,Global,2517,2026-09-25
+Batch 402,Paragraph,5,1,16507,2026-04-29
+Sprint goal 403,Labels,1,Global,8046,2026-10-08
+Serial number 404,Select List (single choice),5,4,21272,2026-07-02
+Batch 405,Checkboxes,1,Global,24764,2026-08-04
+Sprint goal 406,Date Picker,1,8,9442,2026-07-16
+Region 407,Paragraph,1,2,28764,2026-05-11
+Component 408,Date Picker,1,6,28871,2026-07-29
+Region 409,User Picker (single user),5,5,12385,2026-10-16
+Customer 410,Date Picker,7,Global,0,
+Root cause 411,Text Field (single line),5,11,272,2023-09-06
+Due window 412,Select List (single choice),5,6,14442,2026-05-08
+Release 413,Date Picker,5,7,0,
+Sprint goal 414,Labels,1,8,0,
+Warehouse 415,Select List (single choice),2,8,690,2026-06-15
+Component 416,Number Field,5,10,262,2023-12-20
+Batch 417,Paragraph,2,9,18806,2026-05-19
+Due window 418,Date Picker,1,5,6856,2026-09-13
+Story points 419,Checkboxes,5,Global,0,
+Serial number 420,Date Picker,1,3,29477,2026-06-16
+Site 421,Date Picker,1,7,9523,2026-04-28
+Sprint goal 422,Select List (single choice),5,Global,17629,2026-09-12
+Due window 423,Date Picker,5,8,19537,2026-04-16
+Component 424,Checkboxes,1,3,20968,2026-04-22
+Due window 425,Labels,1,10,1037,2026-08-09
+Risk 426,Labels,3,6,2249,2026-05-29
+Due window 427,Select List (single choice),2,7,20673,2026-06-14
+Risk 428,Labels,3,6,4176,2026-09-15
+Component 429,Select List (single choice),3,11,11088,2026-07-04
+Cost centre 430,Paragraph,7,Global,0,
+Severity 431,Checkboxes,1,11,214,2025-09-18
+Cost centre 432,Checkboxes,1,Global,714,2026-06-02
+Approval 433,Date Picker,5,10,12587,2026-06-29
+Batch 434,Text Field (single line),5,2,28635,2026-05-04
+Team 435,Checkboxes,2,8,28131,2026-05-03
+Story points 436,Select List (single choice),1,12,15846,2026-07-05
+Customer 437,Number Field,2,Global,113,2023-01-22
+Cost centre 438,Paragraph,5,2,14343,2026-07-31
+Root cause 439,Paragraph,1,11,20417,2026-04-08
+Team 440,Date Picker,5,8,14460,2026-06-22
+Warehouse 441,Checkboxes,1,3,216,2026-10-19
+Firmware version 442,Paragraph,1,Global,19259,2026-06-18
+Robot model 443,Paragraph,3,8,7855,2026-05-30
+Component 444,Number Field,3,11,2767,2026-07-12
+Customer 445,Labels,1,Global,3681,2026-07-18
+Approval 446,Text Field (single line),7,1,0,
+Sprint goal 447,Checkboxes,3,Global,17337,2026-07-06
+Team 448,Checkboxes,7,1,0,
+Warehouse 449,Text Field (single line),3,10,0,
+Supplier 450,User Picker (single user),5,4,19145,2026-08-07
+Warehouse 451,User Picker (single user),1,3,338,2023-09-11
+Robot model 452,Number Field,1,2,19604,2026-09-14
+Serial number 453,User Picker (single user),3,1,16300,2026-10-10
+Root cause 454,Text Field (single line),5,12,2242,2026-09-14
+Component 455,Checkboxes,2,6,13174,2026-07-22
+Supplier 456,Checkboxes,1,12,14415,2026-09-16
+Site 457,Number Field,1,Global,168,2024-11-28
+Supplier 458,Labels,2,9,27503,2026-07-20
+Warehouse 459,Number Field,1,10,23205,2026-07-06
